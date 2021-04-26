@@ -1,3 +1,4 @@
+# docker build -t pythondatafeeder . 
 # docker run -d --name pythonDataFeeder -p 5000:5000 pythondatafeeder
 
 # set base image (host OS)
